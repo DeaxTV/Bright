@@ -1,6 +1,6 @@
 # **Paona** TERMS OF SERVICE
 
-Last Updated: **7th February 2022**
+Last Updated: **26th February 2022**
 
 These terms of service ("Terms") apply to your access and use of **Paona** (next only the "Service"). Please read them carefully.
 
@@ -22,7 +22,7 @@ For information about how we collect and use information about users of the Serv
 ## Your Content & Conduct
 
 
-Our service allows you to generate images based on various open source artificial intelligence models. We are not responsible for any content generated using there images/texts and any unlawful conduct which can be derived from generating such images/texts. 
+Our service allows you to generate images based on various open source artificial intelligence models. We are not responsible for any content generated using there images/texts and any unlawful conduct which can be derived from generating such images/texts. If you post a verification we have all the rights to direct message you.
 
 We take full responsibility for maintenance of the Service, keeping it in working order.
 
