@@ -12,7 +12,7 @@ Data is only temporarily stored in application logs and sentry.io logs, bots mea
 
 ## User Rights
 
-At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the [Discord Server](https://discord.gg/qSRzK7rZQb). You have the right to request the removal of relevant Data.
+At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the [Discord Server](https://discord.gg/gn3bdhrDG2). You have the right to request the removal of relevant Data.
 
 ## Underage Users
 
