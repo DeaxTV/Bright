@@ -42,6 +42,12 @@ IN NO EVENT WILL **Deax** BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY SPECIAL, I
 
 You agree to defend, indemnify and hold us harmless from and against any and all costs, damages, liabilities, and expenses (including attorneys' fees, costs, penalties, interest and disbursements) we incur in relation to, arising from, or for the purpose of avoiding, any claim or demand from a third party relating to your use of the Service or the use of the Service by any person using your account, including any claim that your use of the Service violates any applicable law or regulation, or the rights of any third party, and/or your violation of these Terms.
 
+## Domain Agreements
+
+**[Dot TK Content Policy (PDF)](./dottk_contentpolicy_version21.pdf)**
+**[Point ML Content Policy (PDF)](./ml_contentpolicy_combined_v0100.pdf)**
+**[Dominio GQ Content Policy (PDF)](./gq_contentpolicy_v0100.pdf)**
+
 ## Governing Law
 The validity of these Terms and the rights, obligations, and relations of the parties under these Terms will be construed and determined under and in accordance with the laws of the **Türkiye**, without regard to conflicts of law principles.
 
