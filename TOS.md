@@ -22,9 +22,9 @@ For information about how we collect and use information about users of the Serv
 ## Your Content & Conduct
 
 
-Our service allows you to generate images based on various open source artificial intelligence models. We are not responsible for any content generated using there images/texts and any unlawful conduct which can be derived from generating such images/texts. If you post a verification we have all the rights to direct message you.
+Our service allows you to free domain names based on Freenom domains. We are not responsible for any content that is used on the webpages of registered domains.
 
-We take full responsibility for maintenance of the Service, keeping it in working order.
+We have all the rights to cancel your domain name if you break the TOS.
 
 ## Hyperlinks and Third Party Content
 
