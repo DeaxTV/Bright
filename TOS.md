@@ -44,12 +44,7 @@ You agree to defend, indemnify and hold us harmless from and against any and all
 
 ## Domain Agreements
 
-**[Dot TK Content Policy (PDF)](./dottk_contentpolicy_version21.pdf)**
-
-**[Point ML Content Policy (PDF)](./ml_contentpolicy_combined_v0100.pdf)**
-
-**[Dominio GQ Content Policy (PDF)](./gq_contentpolicy_v0100.pdf)**
-
+**[Domainify Domain Agreement](./domainAgreement.md)**
 
 ## Governing Law
 The validity of these Terms and the rights, obligations, and relations of the parties under these Terms will be construed and determined under and in accordance with the laws of the **Türkiye**, without regard to conflicts of law principles.
