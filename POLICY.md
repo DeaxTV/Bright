@@ -1,6 +1,6 @@
 # Privacy Policy
 
-The use of this service ("Bot") in a server requires the collection of some specific user data ("Data"). The Data collected includes, but is not limited to user prompts on which ai generated results are to be based of off, error logs, server names.
+The use of this service ("Bot") in a server requires the collection of some specific user data ("Data"). The Data collected includes, but is not limited to domain records, user ids, server names, usernames.
 
 ## Access to Data
 
